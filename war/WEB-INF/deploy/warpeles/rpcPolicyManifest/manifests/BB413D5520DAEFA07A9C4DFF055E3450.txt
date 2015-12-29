@@ -1,0 +1,2 @@
+serviceClass: com.client.service.PrincipalService
+path: 9F3CBCCA5BB79E358225B844E3227FAB.gwt.rpc

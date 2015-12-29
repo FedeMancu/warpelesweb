@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/41/trunk/Warpeles/src/com/client/service
+END
+GolServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/37/trunk/Warpeles/src/com/client/service/GolServiceAsync.java
+END
+EquipoRivalService.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/37/trunk/Warpeles/src/com/client/service/EquipoRivalService.java
+END
+JugadorServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/41/trunk/Warpeles/src/com/client/service/JugadorServiceAsync.java
+END
+PartidoServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/39/trunk/Warpeles/src/com/client/service/PartidoServiceAsync.java
+END
+PrincipalService.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/39/trunk/Warpeles/src/com/client/service/PrincipalService.java
+END
+PrincipalServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/39/trunk/Warpeles/src/com/client/service/PrincipalServiceAsync.java
+END
+PartidoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/39/trunk/Warpeles/src/com/client/service/PartidoService.java
+END
+JugadorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/41/trunk/Warpeles/src/com/client/service/JugadorService.java
+END
+EquipoRivalServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/37/trunk/Warpeles/src/com/client/service/EquipoRivalServiceAsync.java
+END
+GolService.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/37/trunk/Warpeles/src/com/client/service/GolService.java
+END

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+              http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+         version="2.5"
+         xmlns="http://java.sun.com/xml/ns/javaee">
+
+  <!-- Servlets -->
+  <servlet>
+    <servlet-name>greetServlet</servlet-name>
+    <servlet-class>com.server.GreetingServiceImpl</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>greetServlet</servlet-name>
+    <url-pattern>/warpeles/greet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>jugadorServlet</servlet-name>
+    <servlet-class>com.server.service.JugadorServiceImpl</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>jugadorServlet</servlet-name>
+    <url-pattern>/warpeles/jugador</url-pattern>
+  </servlet-mapping>
+  
+  <servlet-mapping>
+    <servlet-name>golServlet</servlet-name>
+    <url-pattern>/warpeles/gol</url-pattern>
+  </servlet-mapping>
+  
+   <servlet>
+    <servlet-name>golServlet</servlet-name>
+    <servlet-class>com.server.service.GolServiceImpl</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>equipoRivalServlet</servlet-name>
+    <url-pattern>/warpeles/equipoRival</url-pattern>
+  </servlet-mapping>
+  
+   <servlet>
+    <servlet-name>equipoRivalServlet</servlet-name>
+    <servlet-class>com.server.service.EquipoRivalServiceImpl</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>partidoServlet</servlet-name>
+    <url-pattern>/warpeles/partido</url-pattern>
+  </servlet-mapping>
+  
+   <servlet>
+    <servlet-name>partidoServlet</servlet-name>
+    <servlet-class>com.server.service.PartidoServiceImpl</servlet-class>
+  </servlet>
+  
+   <servlet-mapping>
+    <servlet-name>principalServlet</servlet-name>
+    <url-pattern>/warpeles/principal</url-pattern>
+  </servlet-mapping>
+  
+   <servlet>
+    <servlet-name>principalServlet</servlet-name>
+    <servlet-class>com.server.service.PrincipalServiceImpl</servlet-class>
+  </servlet>
+  
+  
+  <!-- Default page to serve -->
+  <welcome-file-list>
+    <welcome-file>Warpeles.html</welcome-file>
+  </welcome-file-list>
+
+</web-app>

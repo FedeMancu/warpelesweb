@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/Warpeles/war/WEB-INF/lib
+END
+appengine-endpoints.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/44/trunk/Warpeles/war/WEB-INF/lib/appengine-endpoints.jar
+END
+appengine-api-1.0-sdk-1.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/Warpeles/war/WEB-INF/lib/appengine-api-1.0-sdk-1.6.4.jar
+END
+appengine-api-labs-1.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/Warpeles/war/WEB-INF/lib/appengine-api-labs-1.6.4.jar
+END
+jdo2-api-2.3-eb.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/45/trunk/Warpeles/war/WEB-INF/lib/jdo2-api-2.3-eb.jar
+END
+appengine-jsr107cache-1.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/44/trunk/Warpeles/war/WEB-INF/lib/appengine-jsr107cache-1.7.0.jar
+END
+jsr107cache-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/45/trunk/Warpeles/war/WEB-INF/lib/jsr107cache-1.1.jar
+END
+smartgwt.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14/trunk/Warpeles/war/WEB-INF/lib/smartgwt.jar
+END
+appengine-jsr107cache-1.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/Warpeles/war/WEB-INF/lib/appengine-jsr107cache-1.6.4.jar
+END
+appengine-api-1.0-sdk-1.9.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/74/trunk/Warpeles/war/WEB-INF/lib/appengine-api-1.0-sdk-1.9.7.jar
+END
+gwt-servlet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/Warpeles/war/WEB-INF/lib/gwt-servlet.jar
+END
+appengine-endpoints-deps.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/74/trunk/Warpeles/war/WEB-INF/lib/appengine-endpoints-deps.jar
+END
+appengine-jsr107cache-1.9.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/74/trunk/Warpeles/war/WEB-INF/lib/appengine-jsr107cache-1.9.7.jar
+END
+appengine-api-labs.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/44/trunk/Warpeles/war/WEB-INF/lib/appengine-api-labs.jar
+END
+smartgwt-skins.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14/trunk/Warpeles/war/WEB-INF/lib/smartgwt-skins.jar
+END
+javacsv.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/Warpeles/war/WEB-INF/lib/javacsv.jar
+END
+datanucleus-jpa-1.1.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/45/trunk/Warpeles/war/WEB-INF/lib/datanucleus-jpa-1.1.5.jar
+END
+objectify-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/Warpeles/war/WEB-INF/lib/objectify-3.1.jar
+END
+geronimo-jpa_3.0_spec-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/45/trunk/Warpeles/war/WEB-INF/lib/geronimo-jpa_3.0_spec-1.1.1.jar
+END
+geronimo-jta_1.1_spec-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/45/trunk/Warpeles/war/WEB-INF/lib/geronimo-jta_1.1_spec-1.1.1.jar
+END
+datanucleus-appengine-1.0.10.final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/45/trunk/Warpeles/war/WEB-INF/lib/datanucleus-appengine-1.0.10.final.jar
+END
+log4j-1.2.15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/18/trunk/Warpeles/war/WEB-INF/lib/log4j-1.2.15.jar
+END
+datanucleus-core-1.1.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/45/trunk/Warpeles/war/WEB-INF/lib/datanucleus-core-1.1.5.jar
+END
+appengine-api-1.0-sdk-1.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/44/trunk/Warpeles/war/WEB-INF/lib/appengine-api-1.0-sdk-1.7.0.jar
+END

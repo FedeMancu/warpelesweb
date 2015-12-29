@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/59/trunk/Warpeles/src/com/shared/modelo
+END
+EquipoRival.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/44/trunk/Warpeles/src/com/shared/modelo/EquipoRival.java
+END
+GoleadoresRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/59/trunk/Warpeles/src/com/shared/modelo/GoleadoresRecord.java
+END
+EstadisticaBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/59/trunk/Warpeles/src/com/shared/modelo/EstadisticaBean.java
+END
+GolesDetalleBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/58/trunk/Warpeles/src/com/shared/modelo/GolesDetalleBean.java
+END
+Gol.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/44/trunk/Warpeles/src/com/shared/modelo/Gol.java
+END
+PartidosRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/30/trunk/Warpeles/src/com/shared/modelo/PartidosRecord.java
+END
+Jugador.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/58/trunk/Warpeles/src/com/shared/modelo/Jugador.java
+END
+Partido.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/48/trunk/Warpeles/src/com/shared/modelo/Partido.java
+END

@@ -1,0 +1,3 @@
+# Module warpeles
+# RPC service class, partial path of RPC policy file
+com.client.service.PrincipalService, 9F3CBCCA5BB79E358225B844E3227FAB.gwt.rpc
